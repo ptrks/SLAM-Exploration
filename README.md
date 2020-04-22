@@ -48,6 +48,9 @@ This will be a repository for exploring SLAM topics based lectures by Professor 
 ### File Overview
 
 #### Unit A 
+###### Resource Files
+* `robot4_motors.txt` - Sample motor encoder data from robot
+
 ###### Example Code
 * `slam_01_a_plot_motor_ticks.cpp` - Plot the raw motor encoder data
 
@@ -62,6 +65,6 @@ This will be a repository for exploring SLAM topics based lectures by Professor 
    ![slam_01_a_plot_motor_ticks.cpp](doc/UnitA/slam_01_c_plot_motor_increments_cpp.png)
 ###### Solved Assignments
 
-* `slam_02_a_filter_motor_question.cpp` - Generate a 2D representation of robots travel path in XY space
+* `slam_02_a_filter_motor_question.cpp` - Plot robots movement in 2D utilizing motor sensor data and motion equations.
 
    ![slam_01_a_plot_motor_ticks.cpp](doc/UnitA/slam_02_a_filter_motor_question_cpp.png)
